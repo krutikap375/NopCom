@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d098c56b-df2b-47d8-82bf-2185c633684f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Substep Feature" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XqhTKUHnDgYocVjY6wVHgJmVtW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="WebTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\untitled\NopCom\src\test\resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunTest">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestUnit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnit.userShouldAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestUnit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnit.verifyGuestUserShouldBeAbleToCheckoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestUnit" />
+      <option name="METHOD_NAME" value="verifyGuestUserShouldBeAbleToCheckoutSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnit.verifyGuestUserShouldBeAbletoCheckoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestUnit" />
+      <option name="METHOD_NAME" value="verifyGuestUserShouldBeAbletoCheckoutSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="TestNG.TestUnit.verifyGuestUserShouldBeAbleToCheckoutSuccessfully" />
+        <item itemvalue="TestNG.TestUnit.verifyGuestUserShouldBeAbletoCheckoutSuccessfully" />
+        <item itemvalue="JUnit.TestUnit" />
+        <item itemvalue="JUnit.TestUnit.userShouldAbleToRegisterSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d098c56b-df2b-47d8-82bf-2185c633684f" name="Default Changelist" comment="" />
+      <created>1581779538805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581779538805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1582629401281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582629401281" />
+    <state x="463" y="90" key="FileChooserDialogImpl" timestamp="1583146503344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="90" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583146503344" />
+    <state width="1306" height="241" key="GridCell.Tab.0.bottom" timestamp="1583146257339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="241" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583146257339" />
+    <state width="1306" height="241" key="GridCell.Tab.0.center" timestamp="1583146257339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="241" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583146257339" />
+    <state width="1306" height="241" key="GridCell.Tab.0.left" timestamp="1583146257338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="241" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583146257338" />
+    <state width="1306" height="241" key="GridCell.Tab.0.right" timestamp="1583146257339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="241" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583146257339" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1582993571148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582993571148" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1582992642259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582992642259" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582713878266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1582713878266" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581783529942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581783529942" />
+  </component>
+</project>
